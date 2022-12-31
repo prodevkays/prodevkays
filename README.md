@@ -6,7 +6,7 @@
     <h1> Hi there, I’m Muhammad Awais👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Wordpress+Developer;Python+Backend+Engineer;Woocommerce+Devloper&center=true&width=500&height=50"></a>
+<a href="https://github.com/prodevkays"><img src="https://readme-typing-svg.herokuapp.com?lines=Wordpress+Developer;Python+Backend+Engineer;Woocommerce+Devloper&center=true&width=500&height=50"></a>
   
   
   ## Personal Website 
@@ -126,6 +126,6 @@ programming and development and learned how to implement solutions to real-world
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/prodevkays/prodevkays/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>      
