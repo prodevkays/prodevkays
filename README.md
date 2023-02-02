@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="awaisarshad819" /> </p>
 
 <div align="center">
-    <h1> Hi there, I’m Muhammad Awais👋<a href="#"></h1>
+    <h1> Hi there, I’m B M Imrul Kays👋<a href="#"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/prodevkays"><img src="https://readme-typing-svg.herokuapp.com?lines=Wordpress+Developer;Python+Backend+Engineer;Woocommerce+Devloper&center=true&width=500&height=50"></a>
